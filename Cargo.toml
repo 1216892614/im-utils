@@ -4,7 +4,7 @@ description = "Extends im and im_rc containers with immutable methods."
 license = "MPL-2.0"
 keywords = ["immutable", "im", "im_rc", "utils"]
 repository = "https://github.com/1216892614/im-utils"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Nerd"]
 edition = "2021"
 
