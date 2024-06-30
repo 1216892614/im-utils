@@ -17,4 +17,4 @@ assert_eq!(Vector::from_iter([12]), im_v);
 
 ## ⚖️License⚖️
 
-`im_utils` is dual licensed under the MIT license and the Apache License (Version 2.0).
+`im_utils` is licensed under the Mozilla Public License (Version 2.0).

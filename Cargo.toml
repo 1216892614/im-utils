@@ -1,7 +1,7 @@
 [package]
 name = "im_utils"
 description = "Extends im and im_rc containers with immutable methods."
-license = "MIT OR Apache-2.0"
+license = "MPL-2.0"
 keywords = ["immutable", "im", "im_rc", "utils"]
 repository = "https://github.com/1216892614/im-utils"
 version = "0.1.0"
