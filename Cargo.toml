@@ -1,6 +1,8 @@
 [package]
 name = "im_utils"
+description = "Extends im and im_rc containers with immutable methods."
 version = "0.1.0"
+authors = ["Nerd"]
 edition = "2021"
 
 [dependencies]
